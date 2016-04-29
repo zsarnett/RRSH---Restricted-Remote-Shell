@@ -44,7 +44,3 @@ Implementation notes:
 Limitations:
 
 	I used thelimitation of MAXLINE for the user inputs and all the read and writen functions. I noticed that my program would core dump if there was a newline on any file. I didnt fix the bug because I could not find a way with the wrapper Fgets function. 
-
-References:
-
-	Evan Heaton helped me with the understanding of the Rio functions
